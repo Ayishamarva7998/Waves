@@ -5,6 +5,7 @@ import 'package:provider/provider.dart';
 import 'package:waves/UI/widgets/CommonWidgets/wavesWidgets.dart';
 import 'package:waves/Utilities/providers/Order/AddCustomer.dart';
 
+// ignore: must_be_immutable
 class Screen_AddCustomer extends StatelessWidget {
   ValueNotifier<bool> customerNameError = ValueNotifier(false);
 

@@ -1,7 +1,7 @@
-import 'package:blue_thermal_printer/blue_thermal_printer.dart';
+
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:printing/printing.dart';
+
 import 'package:provider/provider.dart';
 import 'package:waves/Services/Location/locationServices.dart';
 import 'package:waves/UI/screens/landingScreen/landing_page.dart';
